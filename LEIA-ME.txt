@@ -1,0 +1,19 @@
+LANDING PAGE — NILSON DETAILER
+==============================
+
+Para abrir: dê dois cliques em index.html (abre no navegador).
+
+Para publicar: envie a pasta "landing-page" inteira (index.html + pasta assets)
+para a hospedagem (Hostinger, Netlify, Vercel, GitHub Pages etc.).
+Na Netlify basta arrastar a pasta em app.netlify.com/drop.
+
+O que trocar facilmente no index.html:
+- WhatsApp: procure 5591989365009 (aparece no topo do <script> como FONE)
+- Mensagens automáticas do WhatsApp: objeto MSG no final do arquivo
+- Instagram: procure instagram.com/nilson.detailer
+- og:image (pré-visualização ao compartilhar o link): troque "assets/img/og.jpg"
+  pelo endereço completo do site depois de publicado, ex.: https://seusite.com.br/assets/img/og.jpg
+
+Fonte: Saira (licença SIL Open Font, livre para uso comercial), já inclusa.
+Testado em: iPhone SE, iPhone 14, Galaxy S9+, tela de 320px, iPad retrato e paisagem,
+notebook 1366px e desktop 1920px.
